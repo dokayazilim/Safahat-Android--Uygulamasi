@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DURMAYALIM" android:textColor="#ffffff" android:textStyle="bold" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sa'di diyor ki: 'Bir gece biz kervan ile " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ağır ağır gitmekte iken yolumuz düştü bir çöle. " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hızla geçmek için o korkutucu ıssız çölü, " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bütün yolcular istirahati feda ederek, " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gitmektelerdi.Bir aralık bende yürümeye güç " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hiç kalmamış ki düşmüşüm artık uykuya yenik. " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Avare bir yolcuyu bekler mi kafile? " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çaresiz yola devam edecek varıncaya dek konak yerine. " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bir de uyandım ki başucuma dikilmiş bir deveci şunları 
+söylemekte: 
+" android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="'Kalk ey zavallı yolcu, uzaklaştı kervan! " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uykum benim de yok değil ama bu çöl, " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İstirahat yeri olurmu ki bin türlü korku var? " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Varmak istediği yere varıp durmayıp giden; " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yoktur kurtuluş ümidi bu çöller geçilmeden. " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yazık ki yolda böyle düşen uyku derdine, " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hep yolcular gider de kalır kendi kendine! ' " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Gerçi olayın kendisi önemsizdir, bunda haklısın, ancak düşün: 
+" android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İnsaflı ol, bundan başka hikmet dolu bir prensip varmı bugün? " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Varmak istersen -diyor Sa'di eğer maksada, " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tuttuğun yollar hiç bitmeyecek gibi olsada; " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yola devam et, durmayıp git, yolda kalmaktan sakın! " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yola devam et, durmayıp git, yolda kalmaktan sakın! " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yola devam et, durmayıp git, yolda kalmaktan sakın! " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yola devam et, durmayıp git, yolda kalmaktan sakın! " android:textColor="#ffffff"  />
+<TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yola devam et, durmayıp git, yolda kalmaktan sakın! " android:textColor="#ffffff"  />
+
+
+</LinearLayout>

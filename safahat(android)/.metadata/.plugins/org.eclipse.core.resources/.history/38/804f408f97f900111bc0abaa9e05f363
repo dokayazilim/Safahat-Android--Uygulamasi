@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+  <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YEMİŞÇİ İHTİYAR" android:textColor="#ffffff" android:textStyle="bold" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sinîn-i ömr-i şedâid-güzîni olmalıdır, 
+        
+ " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cebîn-i pâkine pîrin bu çîn-i ye'si veren.  
+ " android:textColor="#ffffff" />
+<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Elinde tartısı, dûşunda mülk-i seyyârı; 
+  " android:textColor="#ffffff" />
+<TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Yürür...Önünde mezar , arkasında bin şîven !  
+ 
+" android:textColor="#ffffff" />
+<TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zaman olur ki, uzaklarda bir serâb-ı mûzî 
+  " android:textColor="#ffffff" />
+<TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nümâyişiyle, gözünden geçer hayâl-i vatan; .  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Sönük nigâhını bîdâr ederdi belki ümid, 
+
+   " android:textColor="#ffffff" />
+<TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hayâle olsa müsâid bu meşy-i tâb-efgen 
+ " android:textColor="#ffffff" />
+<TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çeker şu bâr-ı hayâtınca hep hayâtı için;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bilinse âh, şu bâr-ı hayâtı çekme neden?            
+ " android:textColor="#ffffff" />
+
+<TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mehmet Akif ERSOY" android:textColor="#ffffff" android:textStyle="bold"/>
+<TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Safahât 'ımda, evet, şi'r arayan hiç bulamaz; 
+   " android:textColor="#ffffff"  android:textStyle="bold"/>
+<TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yalınız, bir yeri hakkında 'hazin işte bu!' der.  " android:textColor="#ffffff" android:textStyle="bold" />
+<TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Küfe ? Yok. Kahve ? Hayır. Hasta ? Değil. Hangisi var ya? 
+   " android:textColor="#ffffff"  android:textStyle="bold"/>
+<TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Üç buçuk nazm a gömülmüş koca bir ömr-i heder !   " android:textColor="#ffffff" android:textStyle="bold"/>
+<TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+-SAFAHAT BİRİNCİ KİTAP SONU-
+
+   " android:textColor="#ffffff" android:layout_gravity="center" android:textStyle="bold"/>
+<TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Üç buçuk nazm a gömülmüş koca bir ömr-i heder !   " android:textColor="#ffffff" android:textStyle="bold"/>
+</LinearLayout>

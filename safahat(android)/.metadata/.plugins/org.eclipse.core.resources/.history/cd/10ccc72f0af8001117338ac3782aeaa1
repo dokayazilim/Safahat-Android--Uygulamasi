@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MEYHANE" android:layout_gravity="center" android:textColor="#ffffff" android:textStyle="bold"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hurûşan bâd-ı süfliyyet derûnundan, kenârından;
+Girîzan rûh-i ulviyyet harîm inden, civâr ından. 
+Çıkar bin nâle-i nevmîd hâk-i ra’şe-dârından,
+İner bin zulmet-i makber fezâ-yı şeb-nisâr ından.  
+Gelir feryâdlar ebkem duran her seng-i zârından:
+Yıkılmış hânümanlar sanki çıkmış da mezârından,  
+Dehân-ı hasret açmış rahnedâr olmuş cidâr ından!
+Çöker bir dûd-i mâtem titreyen kandîl-i târından:  
+Sönüp gitmiş ocaklar yükselir gûyâ gubârından!
+Giren bir kerre 
+nâdim dir hayât-ı müsteârından; 
+Çıkan âvâredir artık cihânın kâr ü bâr ından.
+Dökülmüş âb-rû lar bâde-i pesman de hâlinde. 
+Emel bir münkesir peymânedir 
+saff-ı niâlinde!.. 
+Boğulmuş rûh-i insanî şarâbın mevc-i âlinde.
+Nümâyan 
+mel’anet sâkîsinin çirkin cemâlinde!
+Ne mâzî var, ne âtî, bak şu ayyâşın hayâlinde...
+Tutup bir zehr-i âteşnâk dest-i bî-mecâlinde,
+Zevâl-i ömrü bekler hem şebâbın tâ kemâlinde!
+Merâret intıbâ’ etmiş cebîn-i infiâlinde... 
+Derin bir iltivânın sîne-i zerd-i melâlinde
+Odur ancak hüveydâ 
+ser-nüvişt-i bî-meâlinde, 
+Müebbed bir de nisyan nazra-i sengîn-i lâlinde.
+Canım sıkıldı dün akşam, sokak sokak gezdim;
+Sonunda bir yere saptım ki, önce bilmezdim.
+Bitince bir sıra ev, sonra bir de vîrâne,
+Dikildi karşıma bir han kılıklı meyhâne.
+Basık tavanlı, karanlık, sefîl bir dükkân;
+İçinde bir masa, yahut civar tabutluktan
+Atılma çok ölü görmüş acıklı bir teneşir!
+Yanında hurdası çıkmış bir eski püskü sedir.
+Sakat, bacaksız on, on beş hasırlı iskemle,
+Kırık dökük şişeler, bir de çinko tepsiyle,
+Beş on kadeh, iki üç testi... Sonra tezgâhlık
+Eden yan üstüne devrilme kirli bir sandık.
+Sönük sönük yanıyor rafta isli bir lamba...
+Önünde bir küme: fes, takke, hırka, salta, aba
+Kımıldanıp duruyorken, sefîl bir sohbet,
+Bu isli zulmete vermekte büsbütün vahşet:
+- Kuzum Dimitri, bu aksam biraz ziyâdece ver...
+- Ziyâde, anladık amma ya içtiğin şişeler?
+- Çizersin... 
+- Öyle mi? Lâkin, silinmiyor çetele! 
+- Bakın tavan tebeşirden görünmez oldu... 
+- Hele!
+- Bizim peşin paramız... Anladın mı dün kuruşu? 
+- Ayol tükendi mezem... Bari koy biraz turşu.
+Arattı kendini ustan... Dinince dinlersin! 
+-Hasan be, sende nasıl nazlı nazlı söylersin!
+Nedir o türkü... Aman başka yok mu?... Hah, şöyle! 
+- Ömer, ne nazlanıyorsun? Biraz da sen söyle.
+- Nevâzil olmuşum, Ahmed, bırak sesim yok hiç... 
+- Sesin mi yok? Açılır şimdi: bir 
+imam suyu iç! 
+- Yarin ne istesin Osman? 
+- Ne işteyim... Burada! 
+- Dimitri çorbacı, doldur! Ne durmuşun orada?
+- O kim gelen? 
+- Baba Arif. 
+- Sakallı, gel bakalım... 
+Yanaş.
+- Selamünaleyküm. 
+- Otur biraz çakalım... 
+- Dimitri, hey parasız geldi sanma, işte para! 
+- Ey anladık a kuzum...
+- Sar be yoldaşım cıgara... 
+- Aman bizim Baba Ârif susuz musuz içiyor! 
+- Onun bi dalgası olmak gerek: tünel geçiyor.
+- Moruk, kaçıncı kadeh? Şimdicik sızarsın ha! 
+- Sızarsa mis gibi yer, yetmemiş adam değil a.
+Yavaş yavaş kafalar, kelleler kızışmıştı, 
+Ağız, burun hele sesler bütün karışmıştı;
+Dikildi ağzına baktım, açık duran kapının, 
+Fener elinde bir erkek, yanında bir de kadın.
+Beş on dakika süren bir düşünceden sonra, 
+Kadın girdi o zulmet-serâ-yi menfûra.
+Gözünde ebr-i teessür, yüzünde hûn-i hicâb, 
+Vücûdu ra'şe-i nâ-çâr-ı ye's içinde harâb,
+Teveccüh eyleyerek sonradan gelen babaya: 
+-Demek taşınmalı artık çoluk çocuk buraya!
+Ayol, nedir bu senin yaptığın? Utan azıcık... 
+Anan da, ben de, yumurcakların da aç kaldık!
+Ne iş, ne güç, gece gündüz içip zıbar sâde; 
+Sakın düşünme çocuklar acep ne yer evde?
+Evet, sen el kapısında sürün işin yoksa! 
+Getir bu sarhoşa yutsun, getir paran çoksa!
+Zavallı ben... Çamaşır, tahta, her gün uğraş da, 
+Sonunda bir paralar yok, el elde baş başta!
+O tahtalar, çamaşırlar da geçti, yok hâlim... 
+Ayakta sallanışım zorlanır Hudâ âlim!
+Çalışmadın, beni hep bunca yıl çalıştırdın; 
+O yavrucakları çıplak, sefil alıştırdın;
+Bilir mahalleli kim, aldığın zamanda beni, 
+Çehiz çimenle donatmıştı beybabam evini.
+Ne oldu şimdi o eşyâ? Satıp kumarda yedin! 
+Evet, kumarda yedin, hem de Karşılar’da yedin!
+Kızın yetişti, alan yok, nasıl olur ki? Soran 
+“Şu sarhoşun kızı İffet değil mi? Vazgeç aman!”
+Diyen kadınlara; “Pek doğru, pek” deyip gidiyor. 
+Bu söz zavallıyı bilsen ne türlü incitiyor!
+Benim güzel meleğim, hiç de tâli’in yokmuş: 
+Anan benim gibi sersem; babansa bir sarhoş!
+Necip de minderi koltukta geldi mektepten... 
+Demiş ki kalfa: “Sekiz aydır almadım hele ben
+Ne haftalık, ne de aylık... Senin baban olacak 
+Kumarcı, oğlu için az yesin de tutsun uşak!”
+Koğuldum anne! deyip ağlıyor zavallı çocuk... 
+Ne yapsın annesi? Dünyâda bir güvendiği yok!
+O bâri bir adam olsun da kalmasın câhil, 
+Demiştim olmadı... Lâkin kabâhat onda değil:
+O her sabah okuyordu gürül gürül cüz'ünü; 
+Ayırmıyordu kitaptan ne olsa hiç gözünü.
+Üç akşam oldu ki yoksun. Necip: Babam nerde! 
+Ben isterim onu mutlak, demez mi? Bak derde!
+Sular karardı; bu sâatte hiç gezer mi kadın? 
+O, sarhoşun biri; tut kim sokak sokak aradın...
+Nasıl bulursun a yavrum? Yarın gelir belki, 
+Dedim. Fakat çocuğun durmuyordu. Baktım ki
+Avutmanın yolu yok; komşunun Hüseyn Ağ’yı 
+Alıp dolaşmadayım yatsı vakti dünyâyı.
+Anam benim gibi evlâd doğurmaz olsaydı, 
+Bu hâli görmeden evvel gözüm yumulsaydı!
+Herif! Şu hâlime bak, merhametli ol azıcık... 
+Bırak o zıkkımı, içtiklerin yeter artık.
+Efendiler, ağalar, siz de bir nasîhat edin, 
+Sizin belki var evlâdınız... 
+- Hasan, ne dedin?
+- Bırak, köpoğlu kadın amma çalçeneymiş hâ! 
+- Benimki çok daha fazlaydı. 
+- Etme! 
+- Elbet ya!
+Onun için boşadım. 
+Sen işitmedin mi Halim? 
+- Kadın lâkırdısı girmez kulağıma zâti benim.
+Senin kadın dediğin âdetâ pabuç gibidir: 
+Biraz vakti taşınır, sonradan değiştirilir.
+Kadın bu sözleri duymaz, tazallüm eylerdi; 
+Herif mezar taşı tavriyle sâde dinlerdi;
+Cehennem ol seni hınzır orospu, git: Boşsun! 
+- Ben anladım işi, sen komşu, iyce sarhoşsun;
+Ayıltınız şunu yahut! 
+- ilişmeyin! 
+- Bırakın! 
+Herif ayıldı mı, bilmem, düşüp bayıldı kadın!
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+    
+</LinearLayout>

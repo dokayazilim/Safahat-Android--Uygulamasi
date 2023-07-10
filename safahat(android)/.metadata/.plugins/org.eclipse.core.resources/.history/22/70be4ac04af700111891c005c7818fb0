@@ -1,0 +1,24 @@
+package com.dokasoft.safahat;
+
+import android.app.ListActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.ArrayAdapter;
+
+public class ListView extends ListActivity{
+    String stringarray[]={"Fatih Camii","Hasta","Tevhid Yahut Feryad","Küfe","Durmayalým","Hasýr","Geçinme Belasý","Meyhane","Mezarlýk","Bayram","Hasbihal","Selma","Merhum Ýbrahim Bey","Azim","Seyfi Baba","Ýnsan","Kör Neyzen","Acem Þahý","Ýstibdat","Hürriyet","Kocakarý Ýle Ömer","Ezanlar","Canan Yurdu","Bir Mersiye","Dirvas","Mahalle Kahvesi","Köse Ýmam","Kýsa Þiirler","Ahiret Yolu","Ýstiðrak","Amin Alayý","Hasbihal","Bebk Yahut Hakk-ý Karar","Yemiþçi Ýhtiyar","Ýtiraf"};
+	@Override
+	protected void onListItemClick(android.widget.ListView l, View v,
+			int position, long id) {
+		
+		super.onListItemClick(l, v, position, id);
+	}
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,stringarray));
+	}
+
+}

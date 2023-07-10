@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView    android:id="@+id/widget1"    android:layout_width="fill_parent"    android:layout_height="fill_parent"    xmlns:android="http://schemas.android.com/apk/res/android"    > 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+  <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CANAN YURDU" android:textColor="#ffffff" android:textStyle="bold" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eyvah! Sevgilinin yurdu ıssız kalmış 
+        
+ " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ayak bastığı her yer kırgın bir mezar olmuş 
+ " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İçindeki ahenk uçmuş da 
+  " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+İçindeki ahenk uçmuş da 
+ 
+" android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yer yer gömülü durur emeller 
+  " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sanki kıyamet gününü beklerler...  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ya rab! niye böyle bir yığın toprak 
+   " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Olmuş yatıyon o temiz saha? 
+ " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ya rab! niçin o parıltı ontada yok?   " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ya rab! niçin uzayıp gitmekte bu gölge? 
+ " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ya rab! sevgilinin yuvası üzerine 
+   " android:textColor="#ffffff" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gerilmiş bu kat kat aydınlık perdesinin anlamı ne? " android:textColor="#ffffff"/>
+
+<TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mehmet Akif ERSOY" android:textColor="#ffffff" android:textStyle="bold"/>
+</LinearLayout>
+</ScrollView>

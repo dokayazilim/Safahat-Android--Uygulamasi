@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+  <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff" android:textStyle="bold" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="'Ömr-i girânmâye der in sarf şüd" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tâ çihonem sayf, çipûşem şitâ!' Sâdî" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Doksan senelik ömre, İlâhî, bu mu gâyet?" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Bilmem ki ne âlem bu cedel-gâh-ı maîşet!
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Konkunç oluyon böyle hakîkatleri, gerçek," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sa'dî gibi bir asr-ı fazîletten işitmek." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sa'dî o kadar felsefesiyle, hüneriyle," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fikrindeki hürriyet-i fevka'l-beşeriyle" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Esbâb-ı maîşet denilen kayda girerse," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yâd etmesin âzâdeliğin nâmını kimse." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İnsan ki çıkar perde-i mektûm-i ademden," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tâ sahne-i hestîde zuhûr ettiği demden," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+İkmâle kadar fâcia-i devr-i hayâtı,
+
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Anlatmaya mahkûm ne mühlik akabâtı!" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zannetme ölüm şahsına bir kerre muhâcim..." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bin kerre olur günde o düşmenle müzâhim." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Âvâre beşer sâha-i gabrâya düşünce," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Etrafına binlerce devâhî üşüşünce" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meydan mı bulur râhatı esbâbını celbe?" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Başlar o cılız kolları dünya ile harbe!" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kaynar güneşin âteşi mihrâk-ı serinde;" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Karlar buz olur hep beden-i bî-siperinde." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medhûş nigâhında köpürdükçe denizler;" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beyninde bütün dalgalar öttükçe mükerrer;" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sâhilden uzansam, der, eder tayy-i merâhil;" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lâkin onu bilmez ki uzaklar daha sâil:" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dağlar o nihâyetsiz olan silsilesiyle," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ormanlar o dünyâyı tutan velvelesiyle," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Emvâc-ı serâbıyle, vuhûşuyle bevâdî," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Her hatve-i azminde olur ye'sine bâdî." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fevkınde semâvâtın o ecrâm-ı mehîbi;" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pîşinde zemînin o temâsîl-i acîbi;" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bîçâreyi medhuş ederek her nefesinde," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Muztar bırakır mün'adim olmak hevesinde." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lâkin bu heves bir heves-i dîgere mağlûb:" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İnsan yaşamak hırs-ı cibillîsine meclûb." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Her devresi bir devr-i azâb olsa hayâtın," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Râzîsi değildir yine bir türlü memâtın!" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ömr olsa da binlerce tekâlif ile meşhûn," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İnsan yaşamaktan yine memnun, yine memnun!" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Artık neye mevkûf ise te'mîn-i bekâsı," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Yalnız ona masrûf olur âvâre kuvâsı.
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Durmaz boğuşur bunca muhâcimlere rağmen,
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Düşmez o mesâî denilen seyfı elinden." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çıplaktır o, ister ki soğuklarda ısınsın;" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bir dam çatarak her gece altında barınsın."
+
+ android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+İster yiyecek şey, giyecek şey, yakacak şey ..
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bin türlü havâic daha var bunlara der pey." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Âvâre beşer işte bu bâzâr-ı cihanda," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView53"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView54"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView55"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView56"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView57"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView58"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView59"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView60"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GEÇİNME BELASI" android:textColor="#ffffff"/>
+
+</LinearLayout>

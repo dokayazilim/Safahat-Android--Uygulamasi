@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MEYHANE" android:layout_gravity="center" android:textColor="#ffffff" android:textStyle="bold"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hurûşan bâd-ı süfliyyet derûnundan, kenârından;
+Girîzan rûh-i ulviyyet harîm inden, civâr ından. 
+Çıkar bin nâle-i nevmîd hâk-i ra’şe-dârından,
+İner bin zulmet-i makber fezâ-yı şeb-nisâr ından.  
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gelir feryâdlar ebkem duran her seng-i zârından:
+Yıkılmış hânümanlar sanki çıkmış da mezârından,  
+Dehân-ı hasret açmış rahnedâr olmuş cidâr ından!
+Çöker bir dûd-i mâtem titreyen kandîl-i târından:  
+          
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HSönüp gitmiş ocaklar yükselir gûyâ gubârından!
+Giren bir kerre 
+nâdim dir hayât-ı müsteârından; 
+Çıkan âvâredir artık cihânın kâr ü bâr ından.
+
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dökülmüş âb-rû lar bâde-i pesman de hâlinde. 
+Emel bir münkesir peymânedir saff-ı niâlinde!.. 
+Boğulmuş rûh-i insanî şarâbın mevc-i âlinde.
+ 
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+        <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nümâyan mel’anet sâkîsinin çirkin cemâlinde!
+Ne mâzî var, ne âtî, bak şu ayyâşın hayâlinde...
+Tutup bir zehr-i âteşnâk dest-i bî-mecâlinde,
+Zevâl-i ömrü bekler hem şebâbın tâ kemâlinde!
+Merâret intıbâ’ etmiş cebîn-i infiâlinde... 
+
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+            <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Derin bir iltivânın sîne-i zerd-i melâlinde
+Odur ancak hüveydâ 
+ser-nüvişt-i bî-meâlinde, 
+Müebbed bir de nisyan nazra-i sengîn-i lâlinde.
+Canım sıkıldı dün akşam, sokak sokak gezdim;
+
+ 
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+                <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sonunda bir yere saptım ki, önce bilmezdim.
+Bitince bir sıra ev, sonra bir de vîrâne,
+Dikildi karşıma bir han kılıklı meyhâne.
+Basık tavanlı, karanlık, sefîl bir dükkân;
+İçinde bir masa, yahut civar tabutluktan
+Atılma çok ölü görmüş acıklı bir teneşir!
+
+ 
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+                    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yanında hurdası çıkmış bir eski püskü sedir.
+Sakat, bacaksız on, on beş hasırlı iskemle,
+Kırık dökük şişeler, bir de çinko tepsiyle,
+Beş on kadeh, iki üç testi... Sonra tezgâhlık
+Eden yan üstüne devrilme kirli bir sandık.
+Sönük sönük yanıyor rafta isli bir lamba...
+Önünde bir küme: fes, takke, hırka, salta, aba
+Kımıldanıp duruyorken, sefîl bir sohbet,
+Bu isli zulmete vermekte büsbütün vahşet:
+
+ 
+" android:layout_gravity="center" android:textColor="#ffffff"/>
+        
+
+</LinearLayout>

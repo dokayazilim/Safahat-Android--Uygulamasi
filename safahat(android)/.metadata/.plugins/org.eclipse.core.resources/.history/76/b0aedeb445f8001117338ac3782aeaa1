@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView    android:id="@+id/widget1"    android:layout_width="fill_parent"    android:layout_height="fill_parent"    xmlns:android="http://schemas.android.com/apk/res/android"    > 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+  <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İSTİBDAT" android:textColor="#ffffff" android:textStyle="bold" android:layout_gravity="center"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kardeşim Midhat Cemâl´e 
+Yıkıldın, gittin amma ey mülevves devr-i istibdâd,  
+
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bıraktın milletin kalbinde çıkmaz bir mülevves yad!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diyor ecdadımız" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Niçin binlerce ma´sûm öldürürken her gelen cellâd, 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hurûş etmezdi, mezbûhâne olsun, kimseden feryâd?  ," android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Otuz milyon ahâlî, üç şakînin böyle mahkûmu " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Olup çeksin hükûmet nâmına bir bâr-ı meş´ûmu!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Utanmaz mıydınız bir, saysalar zâlimle mazlûmu? " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Siz, ey insanlık isti´dâdının dünyâda mahrûmu  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Semâlardan da yüksek tuttunuz bir zıll-i mevhûmu!"  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O birkaç hayme halkından cihangîrâne bir devlet   " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çıkarmış, bir zaman dünyâyı lerzân eylemiş millet;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Zaman gelsin de görsün böyle dünyâlar kadar zillet
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Otuz üç yıl devâm etsin, başından gitmesin nekbet...  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu bir ibrettir ammâ olmıyaydık böyle biz ibret!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Semâ peymâ iken râyâtımız tuttun zelîl ettin; . " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mefâhir bekleyen âbâdan evlâdı hacîl ettin;   " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Ne âlî kavm idik; hayfâ ki sen geldin sefil ettin; 
+Bütün ümmîd-i istikbâli artık müstahîl ettin;  
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rezîl olduk... Sen ey kâbûs-i hûnî, sen rezîl ettin! " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hamiyyet gamz eden bir pâk alın her kimde gördünse,  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="'Bu bir cânî!' dedin sürdün, ya mahkûm eyledin hapse.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Müvekkel eyleyip câsûsu her vicdâna, her hisse.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Düşürdün milletin en kahraman evlâdını ye´se... . " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ne mel´unsun ki rahmetler okuttun rûh-i İblîs´e!   " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Değil kâbûsun artık, devr-i devlet intibâhındır. 
+Gel ey nâzende hürriyyet ki canlar ferş-i râhındır.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Emindir mevki´in: En pâk vicdanlar penâhındır. 
+Serâpâ mülk-i Osmânî müeyyed taht-gâhındır.  
+ ." android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Serîr-ârâ yı ikbâl ol ki: Bir millet sipâhındır.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bizim mahalleye poyraz kışın da uğrayamaz;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Erir erir akarız semtimizde geldi mi yaz!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bahârı görmeyiz amma latîf olur derler.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çiçeklenirmiş ağaçlar, yeşillenirmiş yer.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Demek, şu arsada ot bitse nev-bahâr olacak...   " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ne var gidip Yakacık´larda dem-güzâr olacak?  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fusûlü dörde çıkarnaz bizim sokaklarımız; " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kurak, çamur, iki mevsim tanır ayaklarımız! " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Müneccimin, bereket versin, eski takvîmi  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Haber verir bize, mevsim şehirde gelmiş mi?  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sıcak, ziyâde sıcak bir geceydi; baktım ki:  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oturmak evde ölümden beter, dedim: Belki,  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çıkar dışarda gezersem biraz nefeslenirim;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Epey de yorgunum amma gelince dinlenirim.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Bizim müsâmere meydânı Yayla tümseğidir; 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Uzak çekerse de poyraz tutar, yazın iyidir. 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giyip ayağını çıkarken sopam yetişti hele... " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Emîn olup gidemem, çünkü, vermesek el ele. " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Odur cihanda benim, varsa yoksa, mu´temedim;  "
+
+ android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Vakûr, hâtırı mer´î, vefâlı, çok denedim. 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bizim sokakları tahmîn için deyin ki: Kuyu!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Doğar şehirde güneş, yükselir minâre boyu,  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İdâre kandili karşımda göz kıpar hâlâ;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Gurûb ikindiyi bulmaz, leyâl hep yeldâ! 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView53"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nasılsa bedrin o akşam nigâh-ı sîmîni,  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView54"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tarassud etmek için sanki evlerin içini;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView55"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dikildi safha-i mînâda semt-i re´simize. . " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView56"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tavansız evlere, yâ Rab, ne hoş bir âvîze!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView57"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dur ey sirâc-ı ezel, gitme olduğun yerden: 
+
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView58"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Biraz şu sahne-i deycûru okşasın şu´len.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView59"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Şu´â-i muhriki altında, gündüzün, şemsin  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView60"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yanan alınlar için bir hayât olur lemsin...  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView61"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Açıktı pencereler; sağlı sollu her evden  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView62"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Gelirdi türlü sadâlar, acıklı, ba´zen şen. 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView63"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Bak anne, aydede bak bak!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView64"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aman da mâşallah  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView65"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Değirmi tabla kadar var...  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView66"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+-Susundu Ayşe, günah. 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView67"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-İlâhi teyze tuhafsın, neden günâh olacak?  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView68"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Günah dedim ya, bırak, şimdi... " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView69"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Haydi sen de bunak!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView70"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" - Bunak munak deme billâhi çarparım elimi...  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView71"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Aşifteler sizi... Âhir zaman tevekkeli mi!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView72"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Evin birinde nevâ-sâz bir güzel ûdî;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView73"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Birinde cezbe fezâ bir sadâ-yı dâvûdî,   " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView74"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tilâvet etmede Kur´an; gelip geçenlerse  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView75"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ayakta irkiliyor incizâb edip o sese.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView76"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Duyulmasın mı biraz sonra başka bir acı ses?  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView77"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aceb ne var? diyerek koştu önceden herkes;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView78"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fakat gidenlere baktım ki kaldırıp tabanı,  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView79"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bucak bucak kaçıyor:Kaç bilir misin amanı!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView80"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kısıldı karşıki evlerde mumların hepsi,  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView81"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kısıldı sanki bütün bir mahallenin nefesi!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView82"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kesildi nağme-i Kur´an, kesildi nağme-i sâz;  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView83"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Sen otur, ben ararım... 
+Zaman zaman duyulan sâde bir- rakîk âvâz.  
+        " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView84"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Niçin kaçıştı ahâli, ne var ki yâ Rabbi?  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView85"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yavaş yavaş, sokulur, anlarım nedir sebebi.  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView86"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ne manzaraydı, İlâhî, o gördüğüm sahne!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView87"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beş on herif yapışıp bir fakîrin ellerine, . " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView88"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sürüklüyor; öteden bir kadın diyor: 
+-Bırakın! 
+Kocam ne yaptı? Nedir cürmü bî-günâh adamın?  
+        " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView89"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zavallının büyük evlâdı öldü askerde; 
+İkinci oğlu da sürgün Yemen´de bir yerde. 
+Acıklı, göğsü sakat koyverin, didiklemeyin; 
+" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView90"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Günahtır etmeyin, oğlum, ayıptır eylemeyin. 
+Efendi kim, o ne bilsin? Bilirse hem ne çıkar? 
+Kilercisiyle uzaktan biraz hısımlığı var. 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView91"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Geçende komşuyu görmüş, demiş selâm söyle. 
+Demek alınmıyacak Tanrı´nın selâmı bile! 
+Köpek sürür gibi insan sürüklenir mi ayol? 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView92"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Kadın, çekil döverim ha! Sokulma, haydi defol! 
+-Herif bırak, diyorum... Durdu işte bak nefesi. 
+-Ne dırlanıp duruyor? Susturun canım şu pisi! 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView93"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Demez miyim size ben her zaman ki dağdağasız 
+Yapın? Eşek gibi siz hiç lâf anlamaz mısınız? 
+-Kadın, paşam, ne yaparsın? 
+Paşam mı? Nerde paşa? 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView94"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Şu korkuluk gibi dimdik duran herif mi? Paşa! 
+Tasavvur et: İki arşın kazık kadar bir boy! 
+Getir de üstüne kalpaklı bir kemik kafa koy. 
+Ocak süpürgesi şeklinde bir sakal yaparak 
+Senin bu işte yüzün, al! deyip o yüzsüze tak. 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView95"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ocak süpürgesi, lâkin süpürmüyor, yıkıyor; 
+Nedense bittiği yerden cenâzeler çıkıyor! 
+Budak delikleri tarzında aç da çifte oyuk, 
+Büyükçe bakla kadar alnının az altına sok. 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView96"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bilir misin çalı altında gizli inler olur. 
+Yılan sabah çıkar, akşam usulcacık sokulur; 
+Bıyık o kırda yetişmiş diken yemişli çalı; 
+Ağız da in gibi aslâ görünmüyor, kapalı., 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView97"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu şekl-i mûhişi mümkünse bir düşün şöyle, 
+Paşam dedikleri u´cûbe işte aynıyle! 
+Belinde seyfi sadâkat´; elinde bir kamçı, 
+Ferik nişanları altında gördüğüm umacı, 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView98"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ziyâ-yı bedr-i münîrin içinde, yâ Rabbi, 
+Dururdu sîne-i îmâna girmiş, ukde gibi! 
+Semâ, zemin bütün envâr iken o pis gölge, 
+Cebîn-i pâkine leylin ne pâyidâr leke!  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView99"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Kuzum, nasıl paşasın, görmüyor musun? Kocamı sürükleyip duruyorlar...  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Defol kadın, adamı  " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView101"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vurunca öldürürüm ha! Benim şakam yoktur. " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView102"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Çekil hanım, paşa laf dinlemez;vurur mu vurur
+Bilir misin onu! Şevket-meâb Efendimiz´in birinci bendesidir... 
+-Hay yetişmesin pampin!  
+ç " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView103"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-Sürün! demiş, ona Şevketli´nin irâdesi var. 
+-Sürüm sürüm sürünün tez zamanda alçaklar! 
+Ya sen, zebâni kıyâfetli, gulyabâni paşa, 
+İlâhi yumru başın bir geleydi sivri taşa! 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView104"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yılan bakışlı şebek bir bakın şunun gözüne! 
+Kazık boyundan utan... Tû! Herif, senin yüzüne! 
+Sakın mahallede erkek bırakmayın, götürün. 
+Sayıyla vermediler, öyle, posta posta sürün! 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView105"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bakın şu hayduda, durmuş yıkın diyor evimi! 
+Torunlarım ya herif, aç kalıp dilensin mi? 
+Mahallemizde de çıt yok ne oldu komşulara? 
+Susup da kurtulacak sanki hepsi aklısıra. 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView106"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ayol, yarın da sizin hânümânınız sönecek... 
+Ne var sıçan gibi evlerde şimdiden sinecek? 
+Yazık sizin gibi erkeklerin kıyâfetine... 
+-Yetişti yaygaran artık... Çekil kadın evine! 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView107"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Atın şu kaltağı gitsin, tıkın hemen içeri. 
+- Paşam, bayıldı kadın. 
+Anlamam o hîleleri. 
+Atın şu kaltağı gitsin, tıkın hemen içeri. 
+Paşam, bayıldı kadın. 
+-Anlamam o hileleri. 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView108"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Demek ki bekleyelim gelsin âlemin keyfi... 
+Saat üç oldu, geciktik, omuzlayın herifi. 
+Refik-i ömrü giderken cenâze hâlinde, 
+Serildi, kaldı kadın âşiyân-ı lâlinde, 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView109"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Benim de bitti nihâyet tahammülüm, tâbım; 
+Boşandı seyl-i dümû´um, boşandı a´sâbım. 
+Utandım ağlıyarak, ağladım utanmıyarak! 
+Diyordu sanki o bîçâre karşıdan: 
+-Alçak 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView110"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Demin gerekti hamiyyet! Hem ağlamak ne demek? 
+Figân ederse kadın, susturur koşup erkek 
+Eve döndüm, bütün o fâcialar 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Geldi karşımda durdu subha kadar. 
+Döndü dîdemde bin hayâl-i elîm! 
+Öttü beynimde bin figân-ı yetîm. 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView112"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ağlasın inlesin de bir mazlûm, 
+Olayım seyre sâde ben mahkûm! 
+Yalınız ben miyim fakat câni? 
+Kim çıkıp 'Yapmayın!' demişti, hani? 
+Ağlasın inlesin de bir mazlûm, 
+Olayım seyre sâde ben mahkûm! 
+Yalınız ben miyim fakat câni? 
+Kim çıkıp 'Yapmayın!' demişti, hani? 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView113"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sustu herkes duyunca feryâdı, 
+Kimsecikler yerinden oynamadı. 
+Sesi hattâ kısıldı Kur´ân´ın 
+Sustu güyâ sadâsı Mevlâ´nın! 
+ " android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView114"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sus! O susmaz: Nidâ-yı tehdîdi, 
+Dinle bak nerden in´ikâs etti: 
+Arnavutluk´ta gürleyen toplar 
+Geliyor işte pâyitahta kadar.  " android:textColor="#ffffff"/>
+
+<TextView
+        android:id="@+id/textView118"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mehmet Akif ERSOY" android:textColor="#ffffff" android:textStyle="bold"/>
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FATİH CAMİİ" android:layout_gravity="center" android:textColor="#ffffff"/>
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eğildi sonra o dağlar huzurunda ALLAH’IN "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kapandı secdeye sonra korkusuyla ALLAH’IN  "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İnayetiyle ALLAH kaldırınca her birini   "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Semaya doğru o dağlar da açtı ellerini   "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O anda yüreklerden öyle dehşetli bir feryat koptu   "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ki ruhum sonsuza dek hatırlayacak bunu!   "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kesildi bir aralık inleyen hüzünlü sesler...  "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ne oldu Arş'a kadar yükselen o yanıp yakılmalar,  "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O coşku içindeki iman?   "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Evet! Çağlayarak işte rahmeti ALLAH’IN... "  android:textColor="#ffffff"/>
+    
+<TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bütün yüreklere serpildi kubbeden bir ruh 
+güvenmenin, huzurun ruhu...
+  "  android:textColor="#ffffff"/>
+    
+
+</LinearLayout>

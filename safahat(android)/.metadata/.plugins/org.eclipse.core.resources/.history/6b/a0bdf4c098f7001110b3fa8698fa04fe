@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/kitap1">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İstiklal Marşımız" android:layout_gravity="bottom|center_vertical|center_horizontal"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Şairin Hayatı" android:layout_gravity="center_vertical|center_horizontal|clip_vertical"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kitap İçeriği" android:layout_gravity="center_vertical|center_horizontal|clip_vertical"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu Kitap Mehmet Akif ERSOY'un Safahat adını verdiği kitabın 1.ciltidir."
+        android:textAppearance="?android:attr/textAppearanceLarge" android:textColor="#ff0000" android:textStyle="bold"/>
+
+</LinearLayout>

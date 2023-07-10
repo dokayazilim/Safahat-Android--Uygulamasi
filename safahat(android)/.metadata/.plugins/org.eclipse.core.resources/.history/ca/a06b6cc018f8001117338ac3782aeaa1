@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView    android:id="@+id/widget1"    android:layout_width="fill_parent"    android:layout_height="fill_parent"    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/hayati">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ŞAİRİN HAYATI" android:textStyle="bold" android:textColor="#ffffff" android:layout_gravity="center"/>
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İstiklâl Marşı şâiri. Asıl adı Mehmet Ragif olan Mehmet Akif 1873 yılında İstanbul'da doğdu. Annesi Emine Şerife Hanım, babası Temiz Tâhir Efendidir. İlk tahsiline Emir Buhâri Mahalle Mektebinde başladı. İlk ve orta öğrenimden sonra Mülkiye Mektebine devam etti. Babasının vefâtı ve evlerinin yanması üzerine mülkiyeyi bırakıp Baytar Mektebini birincilikle bitirdi. Tahsil hayâtı boyunca yabancı dil derslerine ilgi duydu. Fransızca ve Farsça öğrendi. Babasından Arapça dersleri aldı.
+
+Zirâat nezâretinde baytar olarak vazife aldı. Üç dört sene Rumeli, Anadolu ve Arabistan'da bulaşıcı hayvan hastalıkları tedâvisi için bir hayli dolaştı. Bu müddet zarfında halkla temasta bulundu. Âkif'in memuriyet hayatı 1893 yılında başlar ve 1913 târihine kadar devam eder.
+
+Memuriyetinin yanında Ziraat Mektebinde ve Dârulfünûn'da edebiyat dersleri vermiştir.
+
+1893 senesinde Tophâne-i Âmire veznedârı M. Emin Beyin kızı İsmet Hanımla evlendi.
+
+Âkif okulda öğrendikleriyle yetinmeyerek, dışarda kendi kendini yetiştirerek tahsilini tamamlamaya, bilgisini genişletmeye çalıştı. Memuriyet hayatına başladıktan sonra öğretmenlik yaparak ve şiir yazarak edebiyat sâhasındaki çalışmalarına devam etti. Fakat onun neşriyat âlemine girişi daha fazla 1908'de İkinci Meşrutiyetin îlânıyla başlar. Bu târihten itibaren şiirlerini Sırât-ı Müstakîm'de yayınlanır.
+
+1920 târihinde Burdur Mebusu olarak Birinci Büyük Millet Meclisine seçildi. 17 Şubat 1921 günü İstiklâl Marşı'nı yazdı. Meclis 12 Martta bu marşı kabul etti.
+
+1926 yılından îtibâren Mısır Üniversitesinde Türkçe dersleri verdi. Derslerden döndükce Kur'ân-ı kerîm tercümesiyle de meşgul oluyordu, fakat bu sırada siroza tutuldu. Önceleri hastalığının ehemmiyetini anlayamadı ve hava değişimiyle geçeceğini zannetti. Lübnan'a gitti. Ağustos 1936'da Antakya'ya geldi. Mısır'a hasta olarak döndü.
+
+Hastalık onu harâb etmiş, bir deri bir kemik bırakmıştı. İstanbul'a geldi. Hastanede yattı, tedâvi gördü. Fakat hastalığın önüne geçilemedi. 27 Aralık 1936 târihinde vefat etti. Kabri Edirnekapı Mezarlığındadır.
+
+Mehmed Âkif milletini ve dînini seven, insanlara karşı merhametli bir mizaca sâhip, şâir tabiatının heyecanlarıyla dalgalanan, edebî bakımdan kıymetli şiirlerin yazarı meşhur bir Türk şâiridir. İstiklâl Marşı şâiri olması bakımından da Millî Şâir ismini almıştır.
+
+Şairin en büyük eseri Safahat genel adı altında toplanan şiirleri şu 7 kitaptan oluşmuştur:
+
+
+" android:textStyle="bold" android:textColor="#ffffff" android:layout_gravity="center"/>
+     <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1.Kitap: Safahat (1911)" android:textStyle="bold" android:textColor="#ffffff" />
+      <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2.Kitap: Süleymaniye Kürsüsünde (1912)
+" android:textStyle="bold" android:textColor="#ffffff" />
+       <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Kitap: Hakkın Sesleri (1913)
+" android:textStyle="bold" android:textColor="#ffffff" />
+        <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4. Kitap: Fatih Kürsüsünde (1914)
+" android:textStyle="bold" android:textColor="#ffffff" />
+         <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5. Kitap: Hatıralar (1917)" android:textStyle="bold" android:textColor="#ffffff" />
+          <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6. Kitap: Asım (1924)
+        
+" android:textStyle="bold" android:textColor="#ffffff" />
+           <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7. Kitap: Gölgeler (1933).
+" android:textStyle="bold" android:textColor="#ffffff" />
+
+</LinearLayout>
+</ScrollView>

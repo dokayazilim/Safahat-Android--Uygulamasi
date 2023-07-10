@@ -1,0 +1,76 @@
+package com.dokasoft.safahat;
+
+import android.app.ListActivity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.ArrayAdapter;
+
+public class giris extends ListActivity{
+    String stringarray[]={"Fatih Camii","Hasta","Tevhid Yahut Feryad","Küfe","Durmayalým","Hasýr","Geçinme Belasý","Meyhane","Mezarlýk","Bayram","Hasbihal","Selma","Merhum Ýbrahim Bey","Azim","Seyfi Baba","Ýnsan","Kör Neyzen","Acem Þahý","Ýstibdat","Hürriyet","Kocakarý Ýle Ömer","Ezanlar","Canan Yurdu","Bir Mersiye","Dirvas","Mahalle Kahvesi","Köse Ýmam","Kýsa Þiirler","Ahiret Yolu","Ýstiðrak","Amin Alayý","Hasbihal","Bebk Yahut Hakk-ý Karar","Yemiþçi Ýhtiyar","Ýtiraf"};
+	@Override
+	protected void onListItemClick(android.widget.ListView l, View v,
+			int position, long id) {
+		if (position == 0)
+		{
+			startActivity(new Intent("com.dokasoft.safahat.KITAPBIR"));	
+			
+		}
+		else if(position == 1)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPIKI"));		
+		}	
+		else if(position == 2)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPUC"));		
+		}	
+		else if(position == 3)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPDORT"));		
+		}	
+		else if(position == 4)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPBES"));		
+		}	
+		else if(position == 5)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPALTI"));		
+		}	
+		else if(position == 6)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPYEDI"));		
+		}	
+		else if(position == 7)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPSEKIZ"));		
+		}	
+		else if(position == 8)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPDOKUZ"));		
+		}	
+		else if(position == 9)
+		{
+			
+			startActivity(new Intent("com.dokasoft.safahat.KITAPON"));		
+		}	
+		
+		
+		super.onListItemClick(l, v, position, id);
+	}
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,stringarray));
+	}
+
+}

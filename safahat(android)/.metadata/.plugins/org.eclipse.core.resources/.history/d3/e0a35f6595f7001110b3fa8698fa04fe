@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView    android:id="@+id/widget1"    android:layout_width="fill_parent"    android:layout_height="fill_parent"    xmlns:android="http://schemas.android.com/apk/res/android"    >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İSTİKLAL MARŞI" android:layout_gravity="center" android:textColor="#ffffff" android:textStyle="bold"/>
+   <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Korkma, sönmez bu şafaklarda yüzen al sancak"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sönmeden yurdumun üstünde tüten en son ocak."  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O benim milletimin yıldızıdır parlayacak!"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O benimdir, o benim milletimindir ancak!"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çatma, kurban olayım, çehreni ey nazlı hilal!"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kahraman ırkıma bir gül... ne bu şiddet, bu celâl?"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sana olmaz dökülen kanlarımız sonra helal."  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+          <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ben ezelden beridir hür yaşadım, hür yaşarım;
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hangi çılgın bana zincir vuracakmış? Şaşarım!
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yırtarım dağları, enginlere sığmam, taşarım.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+Garbın âfâkını sarmışsa çelik zırhlı duvar.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Benim iman dolu göğsüm gibi serhaddim var.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ulusun, korkma! Nasıl böyle bir imânı boğar,
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="'Medeniyet!' dediğin tek dişi kalmış canavar?
+
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arkadaş, yurduma alçakları uğratma sakın;
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Siper et gövdeni, dursun bu hayâsızca akın.
+
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Doğacaktır sana va'dettiği günler Hakk'ın,
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kim bilir, belki yarın, belki yarından da yakın.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bastığın yerleri 'toprak' diyerek geçme, tanı!
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Düşün altındaki binlerce kefensiz yatanı.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sen şehid oğlusun, incitme, yazıktır, atanı.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verme, dünyâları alsan da bu cennet vatanı.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kim bu cennet vatanın uğruna olmaz ki feda?
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Şühedâ fışkıracak toprağı sıksan, şühedâ!
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cânı, cânânı, bütün varımı alsın da Hudâ,
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Etmesin tek vatanımdan beni dünyâda cüdâ.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rûhumun senden İlahî, şudur ancak emeli:
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Değmesin ma' bedimin göğsüne nâ-mahrem eli!
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu ezanlar-ki şehâdetleri dinin temeli-
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ebedî yurdumun üstünde benim inlemeli.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O zaman vecd ile bin secde eder -varsa- taşım.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Her cerîhamdan, İlâhî, boşanıp kanlı yaşım;
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fışkırır  rûh-ı mücerred gibi yerden na'şım;
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O zaman yükselerek arşa değer belki başım!
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Olsun artık dökülen kanlarımın hepsi helâl.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ebediyyen sana yok, ırkıma yok izmihlâl;
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, hür yaşamış, bayrağımın hürriyet,
+"  android:textColor="#ffffff" /> 
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklâl! 
+"  android:textColor="#ffffff" /> 
+              
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mehmet Akif ERSOY"  android:textColor="#ffffff" android:textStyle="bold"/> 
+        
+</LinearLayout>
+</ScrollView>

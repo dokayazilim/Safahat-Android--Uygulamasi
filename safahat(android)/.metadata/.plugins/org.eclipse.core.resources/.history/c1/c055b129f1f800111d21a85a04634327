@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dokasoft.safahat"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="7" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+       
+       <activity
+            android:name=".acilis"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.ACILIS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       
+       <activity
+            android:name=".giris"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.GIRIS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    
+   <activity
+            android:name=".kitap2"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPIKI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    
+    <activity
+            android:name=".kitap3"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPUC" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+   
+   <activity
+            android:name=".kitap4"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPDORT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+   
+      
+   <activity
+            android:name=".kitap5"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPBES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+     
+   <activity
+            android:name=".kitap6"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPALTI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+   
+     
+   <activity
+            android:name=".kitap7"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYEDI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+      <activity
+            android:name=".kitap1"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPBIR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+    
+      <activity
+            android:name=".kitap8"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPSEKIZ" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+      
+         <activity
+            android:name=".kitap9"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPDOKUZ" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+   
+         <activity
+            android:name=".kitap10"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPON" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+      <activity
+            android:name=".istiklal"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.ISTIKLAL" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+         <activity
+            android:name=".hayati"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.HAYATI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+             <activity
+            android:name=".kitap11"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONBIR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+                <activity
+            android:name=".kitap12"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONIKI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+                     <activity
+            android:name=".kitap13"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONUC" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+                       <activity
+            android:name=".kitap14"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONDORT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+           <activity
+            android:name=".kitap15"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONBES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+            <activity
+            android:name=".kitap16"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONALTI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+               <activity
+            android:name=".kitap17"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONYEDI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+                 <activity
+            android:name=".kitap18"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONSEKIZ" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+           
+                         <activity
+            android:name=".kitap19"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPONDOKUZ" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+                              <activity
+            android:name=".kitap20"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+            <activity
+            android:name=".kitap21"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMIBIR" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+          <activity
+            android:name=".kitap22"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMIIKI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+          <activity
+            android:name=".kitap23"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMIUC" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity> 
+                <activity
+            android:name=".kitap24"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMIDORT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+                   <activity
+            android:name=".kitap25"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMIBES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+                   <activity
+            android:name=".kitap26"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMIALTI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+          <activity
+            android:name=".kitap27"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.dokasoft.safahat.KITAPYIRMIYEDI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+          
+                
+         </application>
+
+</manifest>

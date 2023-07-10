@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hasta" android:layout_gravity="center" android:textColor="#ffffff"/>
+ <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hastalık çünkü değil öyle ehemmiyetsiz. " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sade bir nezle-i sadriyyemi illet? Nerede? " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çocuğun hali fenalaştı son günlerde,  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ameliyata çıkarken sınıf on gün evvel,  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu da gelmez mi? Dedim 'Kim dedi, oğlum sana gel? " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nöbet üstünde adam kaçmalı yorgunluktan; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hadi yavrum, hadi söz dinle de bir parça uzan. " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O zamandan beridir za'fi terakki ediyor;  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Görünen: bir daha kalkınması artık pek zor;  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uyku yokmuş; gece hep öksürüyormuş; ateşin  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oluyormuş biraz dindiği  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Ben zaten işin, " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bir ay evvel biliyordum ne vahim olduğunu " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bana ihtara ne hacet, a beyim. Şimdi bunu?  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maamafih yeniden bakalım dikkatle:  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hükmü kat' i verelim, etmeye gelmez acele. " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Çağırın hastayı gelsin. " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Kapının perdesini,  " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Açarak girdi o esnada düzeltip fesini, " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="- Bence Doktor, onu siz soyarak dinleyiniz; " android:textColor="#ffffff"/>
+    
+</LinearLayout>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/androidturk">
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="İSTİKLAL MARŞI" android:layout_gravity="center" android:textColor="#ffffff" android:textStyle="bold"/>
+   <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Korkma, sönmez bu şafaklarda yüzen al sancak"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sönmeden yurdumun üstünde tüten en son ocak."  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O benim milletimin yıldızıdır parlayacak!"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O benimdir, o benim milletimindir ancak!"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çatma, kurban olayım, çehreni ey nazlı hilal!"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kahraman ırkıma bir gül... ne bu şiddet, bu celâl?"  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sana olmaz dökülen kanlarımız sonra helal."  android:textColor="#ffffff" /> 
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+          <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hakkıdır, Hakk'a tapan milletimin istiklal.
+"  android:textColor="#ffffff" /> 
+         
+         
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mehmet Akif ERSOY"  android:textColor="#ffffff" android:textStyle="bold"/> 
+        
+</LinearLayout>
